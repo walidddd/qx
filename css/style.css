@@ -36,11 +36,13 @@ body{
     font-size: 28px;
     font-weight: 900;
 }
-.container-page h6{
+.container-page h6, .container-page h5{
     color: #ff0015;
     font-size: 23px;
-    margin: 18px 0 30px 0;
     font-weight: 600;
+}
+.container-page .x{
+    margin: 18px 0 30px 0;
 }
 .container-page  a{
     font-size: 22px;
